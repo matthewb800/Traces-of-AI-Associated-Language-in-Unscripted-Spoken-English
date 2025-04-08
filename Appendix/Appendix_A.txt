@@ -1,0 +1,31 @@
+#  Computing Resources
+
+This file details the computing environment used to run the scripts and analyses in this repository.
+
+## System Specifications
+
+- **Operating System**: Ubuntu 24.04.1 LTS
+- **CPU**: 11th Gen Intel Core™ i5-1145G7 × 8
+- **RAM**: 32 GB
+
+## Software Environment
+
+- **Python Version**: [e.g., 3.10.6]
+- **Key Libraries**:
+  - openai-whisper == Base version
+  - spacy == [version]
+  - pandas == [version]
+  - numpy == [version]
+  - scipy == [version]
+
+## Runtime Notes
+
+- **Total transcription time**: 80 hours
+- **spaCy tagging time**: [e.g., ~2 hours]
+- **Average analysis runtime**: 4 min per 1 hour of transcription
+
+## Additional Notes
+
+
+
+
