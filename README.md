@@ -20,9 +20,9 @@ In recent years, written language, particularly in the domains of science and ed
 
 ### Requirements
 - **Python 3.x**
-- **OpenAI Whisper** (for audio transcription)
+- **OpenAI Whisper Base Model** (for audio transcription)
 - **spaCy** (for POS tagging and lemmatization)
-- **Python libraries**: pandas, numpy, scipy (for statistical analysis)
+- **Python libraries**: spaCy, scipy 
 
 Install dependencies via pip:
 ```bash
